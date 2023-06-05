@@ -1,0 +1,2 @@
+runtime: python39
+# note that App Engine expects to find a file named main.py
